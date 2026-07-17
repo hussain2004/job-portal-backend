@@ -104,4 +104,4 @@ Upcoming Features:
 
 Shaik Mahaboob Hussain
 
-Final Year Computer Science Engineering Student
+ Computer Science Engineering Student
